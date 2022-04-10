@@ -1,0 +1,1 @@
+{"id":"113110ee-f493-4284-8a55-e26c0ced3b0d","space":14551,"runtime":"nodejs14.x","name":"translator","path":"njb2ub","project":"c0efk60t","account":"144798365827","region":"ap-southeast-1","deps":["express@^4.17.3"],"envs":null,"public":true,"log_level":"debug","cron":""}
